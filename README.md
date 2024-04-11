@@ -2,6 +2,12 @@
 
 The technology stack used in this project is `three.js`, and `blender` is used for modeling. Finally, the scene texture is baked and rendered, and the `glb` map format is exported for rendering on the Web.
 
+## UI Overview
+
+Here's a glimpse of the Website, highlighting its features and aesthetics.
+
+![Image text](https://github.com/EthanCh30/img-store/blob/master/gallery.png)
+
 ## How to move?
 
 Move: `W`/`S`/`A`/`D`
