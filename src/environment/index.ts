@@ -115,7 +115,7 @@ export default class Environment {
 					if (item.name === "computer") {
 						item.userData = {
 							name: item.name,
-							title: "噢，是远方 🏕",
+							title: "Oh, It's a distant place 🏕",
 						};
 						this.raycast_objects.push(item);
 					}
